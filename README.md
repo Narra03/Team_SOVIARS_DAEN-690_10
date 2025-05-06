@@ -33,7 +33,20 @@ The project outputs three key indices:
 | `readiness.csv` | Readiness infrastructure data used to assess emergency response capacity |
 | `SOVI index calc.py` | Python code used to clean data, calculate sub-indices, and compute final SOVI |
 | `readiness_index.ipynb` | Jupyter notebook for infrastructure readiness analysis |
+| `MAIN_PROJECT.qgz` | QGIS project file containing spatial joins, styling, and all final map layers. |
 | `Team SOVIARS Showcase Presentation(Final).pptx` | Final project presentation with visuals, methods, and findings |
+
+---
+## 🗺 GIS Project File
+
+The `MAIN_PROJECT.qgz` file contains:
+- Styled layers for SOVI, VRS, and SOVIARS
+- Facility overlays and exposure zones
+- All spatial processing for area and population metrics
+
+To open:
+1. Use QGIS 3.22 or later
+2. Load project and ensure external raster/shape files are in the same directory
 
 ---
 
