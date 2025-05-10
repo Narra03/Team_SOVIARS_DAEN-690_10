@@ -112,7 +112,7 @@ Includes:
 
 ## 👥 Team Members
 
-- Pooja vemuri. 
+- Pooja Vemuri. 
 - Akarsh Matlaparthi.
 - Venkata Naga Sanjay Reddy Narra.
 - Abhista Chidamber Atchutuni.
